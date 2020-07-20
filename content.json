@@ -1,1 +1,9 @@
-{}
+{
+  "custom-field": "Custom-Field-text",
+  "custom-list": [
+    {},
+    {
+      "custom-list-item": "aaa"
+    }
+  ]
+}
